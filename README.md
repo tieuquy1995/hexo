@@ -31,7 +31,11 @@ $ cd blog
 ``` bash
 $ hexo server
 ```
+**Running on browser**
 
+``` bash
+http://localhost:4000/
+```
 **Create a new post**
 
 ``` bash
@@ -43,7 +47,6 @@ $ hexo new "Hello Hexo"
 ``` bash
 $ hexo generate
 ```
-
 ## More Information
 
 - Read the [documentation](https://hexo.io/)
@@ -51,7 +54,7 @@ $ hexo generate
 - Join discussion on [Google Group](https://groups.google.com/group/hexo)
 - See the [plugin list](https://hexo.io/plugins/) and the [theme list](https://hexo.io/themes/) on wiki
 - Follow [@hexojs](https://twitter.com/hexojs) for latest news
-
+- More detailed information about the hexo API [hexo API](https://hexo.io/api/)
 ## License
 
 MIT
